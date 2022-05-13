@@ -1,2 +1,2 @@
-coverage[toml]==6.2
+coverage[toml]==6.3.3
 flake8==4.0.1
